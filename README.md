@@ -1,2 +1,6 @@
 # FeatureExtraction
-Pre-trained model to feature extraction.
+Feature extraction is a fundamental technique in machine learning and signal processing. It involves identifying and selecting the most relevant or informative features from a set of raw data to represent them in a more compact and meaningful way. These extracted features then serve as the basis for training machine learning models or subsequent data analysis.
+
+In practice, feature extraction can involve different methods depending on the application domain. For example, in image processing, features can be contours, textures, colors, or visual patterns. For text processing, features could be keywords, n-grams, or vector representations such as word embeddings. In the field of signal processing, features could be frequencies, amplitudes, or Fourier transformation coefficients.
+
+The main objective of feature extraction is to reduce the dimensionality of the data while retaining as much discriminative information as possible to enable better generalization of the machine learning model or better understanding of the data. This can also help improve processing speed and reduce computational resource requirements. In summary, feature extraction plays a crucial role in preparing data for various analysis and modeling tasks in machine learning.
